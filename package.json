@@ -1,0 +1,37 @@
+{
+  "name": "vue3-h5-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vueuse/core": "^5.2.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "lib-flexible": "^0.3.2",
+    "lodash": "^4.17.21",
+    "vant": "^3.1.5",
+    "vue": "^3.0.0",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.171",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "less": "^4.1.1",
+    "less-loader": "^7.3.0",
+    "mockjs": "^1.1.0",
+    "postcss-pxtorem": "^5.1.1",
+    "typescript": "~4.1.5",
+    "vue-cli-plugin-mock": "~1.0.3"
+  }
+}
